@@ -14,11 +14,11 @@ function Footer() {
           <p className="text-sm font-semibold">
             &copy; 2024{" "}
             <Link
-              to="https://pritambose.netlify.app"
+              to="https://karan-jaria-portfolio.netlify.app/"
               target="_blank"
               className="text-textHover"
             >
-              Pritam Bose
+              Karan Jaria
             </Link>
           </p>
         </div>
